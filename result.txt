@@ -1,0 +1,13 @@
+# Поиск 5ти пользователей, сгенерировавших наибольшее количество запросов
+1. User NOT_SPECIFIED                    has generated 296194 requests
+2. User a6c732a9cd426b7620cd93e7aa37aef6 has generated 54522 requests
+3. User 7834ea899abe21b5fd047e125cdffc56 has generated 50149 requests
+4. User 64c5eae485561a1d7064477e792a6358 has generated 46463 requests
+5. User aedf2485753a52ca1149bde2343e8d7a has generated 40371 requests
+
+# Поиск 5ти пользователей, отправивших наибольшее количество данных
+1. User ef407a4a8c7262284b558651b8e7eff3 has sent 5788762342 bytes
+2. User 22e94d0520b9f9b2f02eaa97b165f720 has sent 2695498079 bytes
+3. User 453370ebc5e3c98cc53664362da6cc1a has sent 1560165694 bytes
+4. User 34902a8b61bc416b1ff8832d7c3bbddb has sent 1560156359 bytes
+5. User c15cf96d9b56740c974661d209ef44f7 has sent 1272031689 bytes
