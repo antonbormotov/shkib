@@ -1,3 +1,5 @@
+Репозиторий с исходным кодом: https://github.com/antonbormotov/shkib/
+
 # Поиск 5ти пользователей, сгенерировавших наибольшее количество запросов
 1. User NOT_SPECIFIED                    has generated 296194 requests
 2. User a6c732a9cd426b7620cd93e7aa37aef6 has generated 54522 requests
@@ -11,3 +13,141 @@
 3. User 453370ebc5e3c98cc53664362da6cc1a has sent 1560165694 bytes
 4. User 34902a8b61bc416b1ff8832d7c3bbddb has sent 1560156359 bytes
 5. User c15cf96d9b56740c974661d209ef44f7 has sent 1272031689 bytes
+
+# Задание 3: Поиск регулярных запросов (запросов выполняющихся периодически) по полю src_user.
+1. User 7cc7635e42dc94f73e14288891c5f8eb sends request periodically
+2. User 2ae8ad086433bdca2fc869cbfc15ebf5 sends request periodically
+3. User b09e939dec9ee2ddeb3457e7e091b1ed sends request periodically
+4. User 5f1ba3899cae8b3d243099953ce56781 sends request periodically
+5. User a89d5640888c86310252f3de54e58ee4 sends request periodically
+6. User d4199dfe566b79dbde9b52b1bb68cacb sends request periodically
+7. User 07669f06986aa50043d30a26b0d21c10 sends request periodically
+8. User 6633fc126c61af3427c1d7ac0c3e32b0 sends request periodically
+9. User b76342d6558bdfbf5440acea53b24880 sends request periodically
+10. User bc94fb861b6d683d7e47074b5ae08e00 sends request periodically
+11. User 9e9869e37b524aab77ab3e178f5d1818 sends request periodically
+12. User f4ab97f25385cd74e8c7537b55a497f8 sends request periodically
+
+# Задание 4: Поиск регулярных запросов (запросов выполняющихся периодически) по полю src_ip.
+1. User bb589aebeb6b1a45d2b9bbfa108f0f30 sends request periodically
+2. User 7dac43fbfc25253acd867570179bd098 sends request periodically
+3. User 5be64d6e523e2172b74ca24ab859fce2 sends request periodically
+4. User e866e90f0a9ad12222386e59f15b733d sends request periodically
+5. User 08863d91997fc933ed7b35b8f179cda3 sends request periodically
+6. User 5635a2c75bb553e0e587cc68a8551850 sends request periodically
+7. User 7c30cf21e96663a21b45035da76c2c60 sends request periodically
+8. User dc3e3d132e8552e96674da9a19574cc8 sends request periodically
+9. User a02b20cd4aef2eb0866e0d2e96286f35 sends request periodically
+10. User e0efe2f389f17aa29df01b529548e971 sends request periodically
+11. User 429beb0f1c03728c9df01f6da943bf70 sends request periodically
+12. User d89111688fd94d49c3de52dd6a4ce5f5 sends request periodically
+13. User 0e9df1c843d017133bc8b3192e007514 sends request periodically
+14. User 94c607cfd793d88b9a5e73f394f98669 sends request periodically
+15. User 4000399c9a1aee1f626182eb2352c68f sends request periodically
+16. User bc6493107cc99456cd8450e170d90cc9 sends request periodically
+17. User 409be10d4ccfa37215e9d6ec2adb19e0 sends request periodically
+18. User 841704732e435fd33c138284b83e1afb sends request periodically
+19. User 406968cd052ff790d7c1784a8f6f26bc sends request periodically
+20. User caa624af9c0afd7192258bc178ce30c0 sends request periodically
+21. User 3f4f2b29f2ee10033e47c8556c073576 sends request periodically
+22. User ab184b5126f28fc976819fbb946a34ca sends request periodically
+23. User e3b54cc0ccfe81cc75cdb3622c1e9d32 sends request periodically
+24. User 354bcb8b572989890d4cb11d757b75b6 sends request periodically
+25. User 5bd19b630dbb2bf831faf3380636f967 sends request periodically
+26. User 0fa1f8facdf3ba286dd4660251490b85 sends request periodically
+27. User ad9a54c3af521ac212469b2511b14a6f sends request periodically
+28. User 2f222a0a1e937ed652e8dfe4c51fa177 sends request periodically
+29. User b70c99a57b470358ede6a1e30761e86a sends request periodically
+30. User 8304cfacdc3153a2001fccf911189a79 sends request periodically
+31. User 6d2e2ed57ff1b6200b75d6ff244c189d sends request periodically
+32. User 42bd553419cc4f8b8cc6c725f4eadd54 sends request periodically
+33. User 0a321063340d21e1078ac156a9f4edcb sends request periodically
+34. User daa3fd21c4042ff49f23cd743e9b4a38 sends request periodically
+35. User 4949563bce9e0c287c5dc19593f64f0b sends request periodically
+36. User d6a787d22047fb819984335d406d9c19 sends request periodically
+37. User 0b4e2c81fc0d0bf5f5f5444317ee1abb sends request periodically
+38. User 0ed4b62be625b2f0f43480f24fd6c9e1 sends request periodically
+39. User 3d0752fac478d118170569b90275b9bf sends request periodically
+40. User 799ed49aae867db69a8fe187febe4a45 sends request periodically
+41. User 3312c7df5d2b21aa0a820aeabfda0757 sends request periodically
+42. User a9fa2e0fd8d61f9b0bcc45d6b1fabcf4 sends request periodically
+43. User 85aa6a92169956e6128950ef0b9705ce sends request periodically
+44. User 7d333190129da09cec0b522cc0c7f79f sends request periodically
+45. User 8c7266ec7a6f1d165c4944a09d339e3c sends request periodically
+46. User fef4a5ec9568da71dc9be5b3c2c56442 sends request periodically
+47. User dcdae55bd5e883562cfd4a5ecdb976ee sends request periodically
+48. User 638e4066612df374fd3f2ed678b0c770 sends request periodically
+49. User 1e7c716dd3222c2690063a618f040aae sends request periodically
+50. User 22a63246823c9f5ba73a516d48540919 sends request periodically
+51. User 8389b91e600d09b9d15aee886d587214 sends request periodically
+52. User b5090ed4d3ac3d3cb70268880ddea090 sends request periodically
+53. User 6ab4dbabfae4898e4772474a89e75f19 sends request periodically
+54. User b477f0c898425011d14951c44453ffc9 sends request periodically
+55. User d4f30216f845f3621cb9a73cb1d8b7ec sends request periodically
+56. User d9d5e2221f0a6851d6f46a60fe7d2a1e sends request periodically
+57. User 99151117f4e96067647cd5aa4aca47cd sends request periodically
+58. User 445b67209062d632f250863bc6626ea9 sends request periodically
+59. User d643b268f14f1cf05eae2f17de77ebc6 sends request periodically
+60. User ada29d51fcf44ad72681aa9147cac86a sends request periodically
+61. User 5345d567957c0957156e2dac3b78e4f2 sends request periodically
+62. User 424b847d933fdad5be53c062180d1c3f sends request periodically
+63. User f28eab221dadcd0d682db64db250cbb3 sends request periodically
+64. User 4c6e9f77b86f48bbd050f49bdcdbeeeb sends request periodically
+65. User 6e4f2fa4d0a664b8d0f1b361c8eda7b7 sends request periodically
+66. User 551cc88a955e771d0a2c081ec0ab584d sends request periodically
+67. User 68cfe1c2cdf863a681691128c5e9424f sends request periodically
+68. User 1c38406b8be3db8001f5d44bf8dbd435 sends request periodically
+69. User 01bf9eeec9fa6d9a9d3594316081cac6 sends request periodically
+70. User e42fe07024a618bbcf6d50d8bfd7c34d sends request periodically
+71. User cbe4fc4e1faac2455383015a9e02f6c3 sends request periodically
+72. User 7eba1cf861e58cdfc063a75ec96389ef sends request periodically
+73. User 9e90f1433170f3e12add9b8d1b762b2a sends request periodically
+74. User 751bc8c7aba7fb47c03ba2825c116e25 sends request periodically
+75. User 5b352851a243e8f3b828f450930cadbe sends request periodically
+76. User 04a422919f35d86b6ac47d90ba5fd560 sends request periodically
+77. User 71f41b783990b9c003194ba1bb7d640c sends request periodically
+78. User 192716a88fc43b7f8637f5992ea09a5d sends request periodically
+79. User 92558c90fbb463943b5fc683208f4dce sends request periodically
+80. User c5370bed9ef038109b79ce3f2d22a1c0 sends request periodically
+81. User bc345774f22cf395369f76b01163470e sends request periodically
+82. User 7735dd6ead4a8635a00d42a4d6225992 sends request periodically
+83. User be175211a9bc56a61afb71b214804d69 sends request periodically
+84. User 34951aa378166599bf235188e1e6de73 sends request periodically
+85. User 96e7227e42484e6c833bf4ba78a8a9e4 sends request periodically
+86. User 337fac0f658601df96a1378ad28e1a8e sends request periodically
+87. User 715acadcddaf1d32cd7fb32ca89deb10 sends request periodically
+88. User a35579ef2712b4adfb9477c1828a6f08 sends request periodically
+89. User b561b663699e4e5ebf4be447d4f13784 sends request periodically
+90. User 6e3c6a0cd244fff4d55a6234742d815c sends request periodically
+91. User 37ce9da626158f8f7aad3a7ce820db19 sends request periodically
+92. User 54f21bf16a791a6ad2ec8f45bd10e1da sends request periodically
+93. User 0ebf8c7ba7d0e3a1ad4565ba9e422da9 sends request periodically
+94. User 6cac600b6c18b6d8a3a861f19541e539 sends request periodically
+95. User 990a8e71ab9a98dc51707643db2b9efb sends request periodically
+96. User b8a8b2c561d3df34edbebcbfd48ea212 sends request periodically
+97. User 321577296d30ef03248754e402110531 sends request periodically
+98. User 3a5d5fa5b7d0195a75bbcc7a1a10934a sends request periodically
+99. User 139ab86e033be1f291f8996cabdaffb6 sends request periodically
+100. User c36e052ddcad42a7ed6204c4ea7720a4 sends request periodically
+101. User 28e240fe7ec4ffb7a154283f7f3d784d sends request periodically
+102. User 080d2b86c4ca266feb9560e30688189b sends request periodically
+103. User 5ac6604f956f548a3cf80aab01446969 sends request periodically
+104. User 614d6c51fe0384b4546a0f2053407ded sends request periodically
+105. User 76abaeb95c2c045d9d1dba2b950d78c7 sends request periodically
+106. User 5a80b543e01e9d210e51359227c75e8c sends request periodically
+107. User 0fec51b08ed5419c5c0821821dc7b4c1 sends request periodically
+108. User 302fc2b8e7846348ecf8fbd39fabd45f sends request periodically
+109. User 71439f60393e402b3ead453a3530b372 sends request periodically
+110. User f97bd93ce1672cbbc7132c3816122474 sends request periodically
+111. User b929cc10114392bddc75bb45f7972864 sends request periodically
+112. User 36122f080ee28c7cefd5b48a65ab1986 sends request periodically
+113. User 9c119f5b37d1522364f299af3069ed42 sends request periodically
+114. User 0542ba1b802b7f846ec77afde539433a sends request periodically
+115. User d0bcca828ecd8530b2ad2fe77dd4cec3 sends request periodically
+116. User debb256b7f8c1e561d408f7ea2c9f97e sends request periodically
+117. User 426079281c9698953919fb7f4c3e4111 sends request periodically
+118. User b36d4ee936ff25ae9623d76ab1524b46 sends request periodically
+119. User e34c98ade716d4fe5f6f6dd6f2865439 sends request periodically
+120. User f7f5fc3b317cef684096212e201de668 sends request periodically
+121. User 6add9f8a7b29ff1eed03a045ec107f22 sends request periodically
+122. User 4d8e9531cb433c0d64490a0b91862822 sends request periodically
